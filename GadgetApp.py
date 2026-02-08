@@ -88,7 +88,7 @@ async def cmd_start(message: types.Message):
     user_name = message.from_user.first_name
     counter = data["current_value"]
 
-    photo_url = "https://i.yapx.ru/c3k1M.png"
+    photo_url = "https://yapx.ru/album/c3zN4"
 
     caption = (
         f"{user_name}, добро пожаловать в *GadgetMarket App*— удобного бота, который позволяет"
